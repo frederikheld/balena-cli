@@ -1,4 +1,57 @@
 - commits:
+    - subject: Fix etcher-sdk related types
+      hash: a2dbfd0f54315637c5a44b7073064d96046675a2
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+    - subject: Bump etcher-sdk to 5.2.2
+      hash: 411b8bf134feea49c0c175644b1a36f91e625424
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+    - subject: Remove resin-image-fs typings
+      hash: 9d743e4f6818cd0d507e1a66fcfa645f31e64533
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+    - subject: 'package.json: Remove resin-image-fs package'
+      hash: 20906052ef523042de9e57e53a73164a7ada0676
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+    - subject: Replace old resin-image-fs with newer balena-image-fs
+      hash: c6114aaef0a5e14b19fddd32647f6890ac905e70
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+  version: 12.39.0
+  date: 2021-01-21T21:37:12.683Z
+- commits:
     - subject: Update supported Node.js version range in package.json (<13.0.0)
       hash: b363d28664a78f9f3c40ac6bfccb1eea544879c3
       body: ''
